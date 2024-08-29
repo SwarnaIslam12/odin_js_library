@@ -1,0 +1,21 @@
+.add-btn:hover {
+    background-color: white;
+    color: black !important;
+
+}
+
+.add-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    cursor: pointer;
+}
+
+.individual-book {
+    width: 400px !important;
+    background-color: gray;
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+    padding: 20px;
+}
